@@ -30,7 +30,7 @@ mount /dev/xvdf /mountfile
 mountpoint /mountfile # for check volume file mount or not 
 umount /mountfile 
 ```
-# detech the the volume 
+# Detech the the volume 
 <table>
   <tr>
     <td valign="top"><img src="assets/7.png"/></td>
